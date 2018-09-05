@@ -22,6 +22,8 @@ RUN tar -xvf steamcmd_linux.tar.gz
 
 COPY ./tf2_ds.txt /srcds/tf2_ds.txt
 COPY ./entry.sh /srcds/entry.sh
+COPY ./configs ./configs
+COPY ./maps ./maps
 
 EXPOSE 27015/tcp
 EXPOSE 27015/udp

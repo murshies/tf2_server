@@ -1,0 +1,10 @@
+// Map cycle for payload servers
+
+pl_goldrush
+pl_badwater
+pl_hoodoo_final
+pl_upward
+pl_thundermountain
+pl_frontier_final
+pl_barnblitz
+pl_swiftwater_final1
