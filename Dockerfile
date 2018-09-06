@@ -24,6 +24,7 @@ COPY ./tf2_ds.txt /srcds/tf2_ds.txt
 COPY ./entry.sh /srcds/entry.sh
 COPY ./configs ./configs
 COPY ./maps ./maps
+COPY ./addons ./addons
 
 EXPOSE 27015/tcp
 EXPOSE 27015/udp
